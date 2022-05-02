@@ -28,6 +28,8 @@ Analog in arduino is not actually analog. It is approximate to anolog. Read **Pu
 
 #### As Output
 
-
+Same as LED. Check code.
 
 #### As Input
+
+![anolog input (potentiometer)](./images/anolog-pins-as-input-potentiometer.PNG)
