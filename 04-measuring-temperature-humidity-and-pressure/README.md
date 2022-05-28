@@ -12,3 +12,11 @@
 
 Negative Temperature Coefficient (NTC) or Positive Temperature Coefficient (PTC)
 
+Check Diagram below. We have to measure `Vout` voltage using analog pin.
+
+![Bridge circuit diagram](./images/Thermistor-5V.png)
+
+Fritzing Circuit Diagram
+
+![thermistor circuit](./images/thermistor-circuit.PNG)
+
